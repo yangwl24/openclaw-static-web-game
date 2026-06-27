@@ -16,14 +16,14 @@ Teaches an OpenClaw agent to:
 ### Manual (OpenClaw workspace)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/openclaw-static-web-game.git
+git clone https://github.com/yangwl24/openclaw-static-web-game.git
 cp -r openclaw-static-web-game/static-web-game ~/.openclaw/workspace/skills/
 ```
 
 Windows (WSL2 recommended for OpenClaw):
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/openclaw-static-web-game.git
+git clone https://github.com/yangwl24/openclaw-static-web-game.git
 Copy-Item -Recurse openclaw-static-web-game\static-web-game $env:USERPROFILE\.openclaw\workspace\skills\
 ```
 

@@ -1,7 +1,7 @@
 ---
 name: static-web-game
 description: Develop, test, and deploy static HTML5 canvas games (HTML/CSS/JS). Use for local servers, GitHub Pages, and game project checks.
-homepage: https://github.com/YOUR_USERNAME/openclaw-static-web-game
+homepage: https://github.com/yangwl24/openclaw-static-web-game
 metadata: { "openclaw": { "requires": { "anyBins": ["python", "python3", "node"] } } }
 ---
 
